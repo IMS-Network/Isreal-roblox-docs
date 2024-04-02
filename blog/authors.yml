@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+ticker:
+  name: Ticker
+  title: Project Manager
+  url: https://niro.team
+  image_url: https://github.com/tickerdev.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+mashgiach:
+  name: MrMash
+  title: Core Maintainer
+  url: https://github.com/avivzusim.png
+  image_url: 
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+thefourcraft:
+  name: TheFourCraft
+  title: Infrastructure Manager
+  url: https://ims-network.net
+  image_url: https://github.com/thefourcraft.png
