@@ -36,7 +36,7 @@ export default function HeroBanner() {
               הדוקומנטציה העברית
             </h1>
             <p className="mt-6 text-lg leading-8 ">
-                בלה בלה בלה משהו כתוב כאן ממש מגניב כן אנחנו דוקומנטציה כל הכבוד לנו ואנחנו ממש מתרגשים מזה כי זה כל כך מגניב וכל כך יפה וכל כך טוב
+              פרויקט קהילתי שמהותו הינה לתת מקום למתכנתי רובלוקס בארץ ללמוד ולהתפתח בשפה העברית
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
