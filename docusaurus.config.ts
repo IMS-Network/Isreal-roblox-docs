@@ -112,8 +112,8 @@ const config: Config = {
               href: 'https://discord.gg/robloxisrael',
             },
             {
-              label: 'IMS-Network',
-              href: 'https://ims-network.net',
+              label: 'IMS - Network',
+              href: 'https://ims-network.org',
             },
              {
               label: 'Roblox Studios IL',
@@ -130,7 +130,7 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'גיטהאב',
+              label: 'תרמו לפרוייקט',
               href: 'https://github.com/IMS-Network/Israel-roblox-docs',
             },
             {
