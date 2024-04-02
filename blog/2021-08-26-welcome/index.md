@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: ברוך הבא
+title: !ברוכים הבאים
 authors: [ticker, mashgiach, thefourcraft]
 tags: [מתחילים, הדוקומנטציה העברית]
 ---
