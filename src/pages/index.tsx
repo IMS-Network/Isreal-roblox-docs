@@ -7,6 +7,7 @@ import Heading from "@theme/Heading";
 import HomepageIntro from "@site/src/components/HomepageIntro";
 
 import styles from "./index.module.css";
+import Banner from "../components/Tailwind/Banner";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -27,7 +28,7 @@ function HomepageHeader() {
         </div>
       </div>
     </header>
-  );
+  ); 
 }
 
 export default function Home(): JSX.Element {
@@ -37,11 +38,12 @@ export default function Home(): JSX.Element {
       title={`עמוד ראשי`}
       description="Description will go into a meta tag in <head />"
     >
-      <HomepageHeader />
-      <HomepageIntro />
+      <Banner />
+      {/* <HomepageHeader /> */}
+      {/* <HomepageIntro /> */}
       <main>
-        <HomepageFeatures />
-       
+        {/* <HomepageFeatures /> */}
+        
       </main>
     </Layout>
   );
