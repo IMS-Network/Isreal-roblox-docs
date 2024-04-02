@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width: 75%; max-width: 672px;" src="static/branding/logo.jpg">
+    <img style="width: 75%; max-width: 672px;" src="static/branding/logo.jpg" href="https://רובלוקס.גיימינג.ישראל"">
 <div>
 <p align="center" style="margin-top: -10px;">
 <a href="https://גיימינג.ישראל">איגוד גיימינג ישראל</a>, בשיתוף פעולה עם <a href="https://niro.team">Niro Team</a>, גאים להציג: הַדּוֹקוֹמֶנְטַצְיָה הָעִבְרִית
