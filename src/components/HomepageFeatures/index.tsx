@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "מתקשים ללמוד תכנות?",
-    Svg: require("@site/static/img/Reading list-amico.svg").default,
+    Svg: require("@site/static/img/list-amico.svg").default,
     description: (
       <>
         למצוא מידע בעברית על תכנות נהיה יותר ויותר קשה, בעיקר בחינם. פרויקט
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "בשפה שלכם, בזמנים שלכם",
-    Svg: require("@site/static/img/Hand coding-amico.svg").default,
+    Svg: require("@site/static/img/coding-amico.svg").default,
     description: (
       <>כל המידע באתר נכתב בעברית על ידי ישראלים שרוצים לעזור לך ללמוד.</>
     ),
